@@ -1,5 +1,8 @@
 # Seasoned Blockchain Developer
 
+![blockchain](https://github.com/sappysealsz/sappysealsz/assets/44206695/ef96665e-dedc-45f7-9ce2-7fb0be674b5c)
+
+
 ## About Me 👋
 A seasoned Blockchain and Cryptocurrency Developer with comprehensive expertise in Blockchain, Ethereum, Yield Farming, Smart Contracts, DEFI, NFT marketplaces, and crypto trading bots. Experienced in utilizing technologies such as Solidity, Rust, React.js, Web3.js, Node.js, and more for developing numerous successful websites in the blockchain sector. Highly regarded for a strong work ethic, exceptional problem-solving skills, and a meticulous focus on contract security and gas optimization.
 
