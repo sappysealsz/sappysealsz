@@ -4,7 +4,7 @@
 
 
 ## About Me 👋
-A seasoned Blockchain and Cryptocurrency Developer with comprehensive expertise in Blockchain, Ethereum, Yield Farming, Smart Contracts, DEFI, NFT marketplaces, and crypto trading bots. Experienced in utilizing technologies such as Solidity, Rust, React.js, Web3.js, Node.js, and more for developing numerous successful websites in the blockchain sector. Highly regarded for a strong work ethic, exceptional problem-solving skills, and a meticulous focus on contract security and gas optimization.
+A seasoned Fullstack and Blockchain Developer with comprehensive expertise in Blockchain, Ethereum, Yield Farming, Smart Contracts, DEFI, NFT marketplaces, and crypto trading bots. Experienced in utilizing technologies such as Solidity, Rust, React.js, Web3.js, Node.js, and more for developing numerous successful websites in the blockchain sector. Highly regarded for a strong work ethic, exceptional problem-solving skills, and a meticulous focus on contract security and gas optimization.
 
 ## Projects
 
