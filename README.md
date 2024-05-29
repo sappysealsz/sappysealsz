@@ -1,4 +1,4 @@
-# Seasoned Blockchain Developer
+# Seasoned Fullstack & Blockchain Developer
 
 ![blockchain](https://github.com/sappysealsz/sappysealsz/assets/44206695/ef96665e-dedc-45f7-9ce2-7fb0be674b5c)
 
