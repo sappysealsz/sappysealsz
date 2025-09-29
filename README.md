@@ -1,50 +1,9 @@
-# Seasoned Fullstack & Blockchain Engineer
-
-![blockchain](https://github.com/sappysealsz/sappysealsz/assets/44206695/ef96665e-dedc-45f7-9ce2-7fb0be674b5c)
+# Seasoned Fullstack Developer
 
 
 ## About Me 👋
-A seasoned Fullstack and Blockchain Developer with comprehensive expertise in Blockchain, Ethereum, Yield Farming, Smart Contracts, DEFI, NFT marketplaces, and crypto trading bots. Experienced in utilizing technologies such as Solidity, Rust, React.js, Web3.js, Node.js, and more for developing numerous successful websites in the blockchain sector. Highly regarded for a strong work ethic, exceptional problem-solving skills, and a meticulous focus on contract security and gas optimization.
+Hi, I’m a Senior Software Developer with expertise in building scalable, high-performance web applications using Laravel and its ecosystem. I specialize in PHP/Laravel (Eloquent, Blade, Queues, Sanctum/Passport, Scout) with strong experience in MySQL/PostgreSQL, modern front-end integration (Vue.js, React), and RESTful/GraphQL API development.
 
-## Projects
+I’m passionate about clean architecture, automated testing (PHPUnit, Pest), and leveraging CI/CD, Docker/Kubernetes, and AWS to deliver reliable, maintainable solutions. With a proven track record at Altoros, I thrive in Agile environments, driving innovative solutions and collaborating to turn complex requirements into elegant digital experiences.
 
-- [x] [Project 1: LayerZero Bridge dApp](#project-1)
-- [x] [Project 2: LootBox and Item Contracts](#project-2)
-- [x] [Project 3: Deva](#project-3)
-- [x] [Project 4: SkyLink Protocol](#project-4)
-- [x] [Project 5: UEVENT](#project-5)
-
-## Project 1
-
-### LayerZero Bridge dApp
-The Telos LayerZero bridge enables seamless asset transfers between Telos and other blockchains.  
-[Showcase](https://bridge.telos.net/)  
-More information about this project is available in the [project folder](https://github.com/sappysealsz/telos-bridge)
-
-## Project 2
-
-### LootBox and Item Contracts
-Create and manage NFT LootBoxes and Items with a key mechanism. Built using Hardhat.  
-[Showcase](https://3engine.io/)  
-More information about this project is available in the [project folder](https://github.com/sappysealsz/lootbox-contract)
-
-## Project 3
-
-### Deva
-Decentralized marketplace for NFTs trading compatible with EVM blockchains.  
-
-More information about this project is available in the [project folder](https://github.com/sappysealsz/deva)
-
-## Project 4
-
-### SkyLink Protocol
-A simple protocol for managing various aspects of an aircraft management system using an EVM-blockchain.  
-
-More information about this project is available in the [project folder](https://github.com/sappysealsz/skylink)
-
-## Project 5
-
-### UEVENT
-App for creating events using blockchain technologies.  
-
-More information about this project is available in the [project folder](https://github.com/sappysealsz/uevent)
+🚀 Always learning, always building.
